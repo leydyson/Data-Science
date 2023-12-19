@@ -53,5 +53,3 @@ try:
 
 except Exception as erro:
     print("Erro ao se conectar com o banco de dados: ", erro)
-
-#ksdjksdjksjd
