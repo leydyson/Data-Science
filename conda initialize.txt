@@ -1,0 +1,10 @@
+On linux
+
+cd anaconda3
+nano ~/.bashrc
+export PATH="$HOME/anaconda3/bin:$PATH"
+source ~/.bashrc
+source init
+Fecha o terminal
+conda activate base
+Vai aparecer o nome (base) no terminal
