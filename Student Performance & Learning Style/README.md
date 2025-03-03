@@ -24,7 +24,7 @@ Exam_Score (%) – Student’s final exam score (40%-100%)
 Attendance_Rate (%) – Percentage of classes attended (50%-100%)
 Use_of_Educational_Tech – Whether the student uses educational technology (Yes/No)
 Self_Reported_Stress_Level – Student’s stress level (Low, Medium, High)
-Time_Spent_on_Social_Media (hours/week) – Weekly hours spent on social media (0-30 hours)\**
+Time_Spent_on_Social_Media (hours/week) – Weekly hours spent on social media (0-30 hours)
 Sleep_Hours_per_Night – Average sleep duration (4-10 hours)
 Final_Grade – Assigned grade based on exam score (A, B, C, D, F)
 
