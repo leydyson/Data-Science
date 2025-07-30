@@ -2,11 +2,11 @@
 
 This project seeks to apply machine learning and data science techniques to a database that relates study techniques that students used with their performance.
 
-About the Dataset
+#### About the Dataset ####
 
 This dataset provides insights into how different study habits, learning styles, and external factors influence student performance. It includes 10,000 records, covering details about students' study hours, online learning participation, exam scores, and other factors impacting academic success.
 
-Dataset Features
+#### Dataset Features ####
 
 Student_ID – Unique identifier for each student 
 
